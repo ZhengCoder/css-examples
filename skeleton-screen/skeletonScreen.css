@@ -1,5 +1,6 @@
 /*
 usage: <div class="skeleton-screen"></div>
+more example: https://css-tricks.com/building-skeleton-screens-css-custom-properties/
  */
 .skeleton-screen:empty { /* use empty so that when it is shown only when the div is empty */
     width: 400px;
